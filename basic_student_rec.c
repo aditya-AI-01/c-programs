@@ -1,4 +1,4 @@
-#include <stdio.h>
+    #include <stdio.h>
 int main(){
     char name,father_name,mother_name;
     int a,roll_no,n;
